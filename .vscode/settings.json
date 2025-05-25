@@ -83,7 +83,8 @@
     "window.zoomLevel": 0.8,
     "files.autoSave": "afterDelay",
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "ostream": "cpp"
     },
    
 }
