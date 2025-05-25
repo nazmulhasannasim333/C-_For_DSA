@@ -1,3 +1,4 @@
 Hello World! 
-10
+100
 A 3.1414
+My Favorite number is 100
