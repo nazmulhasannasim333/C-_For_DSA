@@ -1,9 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int x;
-    std::cin >> x;
-    std::cout << "You entered: " << x << std::endl;
+    cin >> x;
+    cout << "You entered: " << x << endl;
     return 0;
 }
