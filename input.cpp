@@ -5,9 +5,10 @@ int main()
 {
     int x;
     char c;
-    cin >> x;
-    cin >> c;
-    cout << "You entered: " << x << endl;
-    cout << "You entered: " << c << endl;
+    double d;
+    cin >> x >> c >> d;
+    cout << "Number: " << x << endl
+         << "Character: " << c << endl
+         << "Double: " << d << endl;
     return 0;
 }
