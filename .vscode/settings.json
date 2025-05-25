@@ -84,7 +84,8 @@
     "files.autoSave": "afterDelay",
     "files.associations": {
         "stdio.h": "c",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp"
     },
    
 }
