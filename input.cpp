@@ -13,5 +13,6 @@ int main()
          << "Double: " << d << endl;
     std::cout << "ASCII value of '" << c << "': " << ascii << endl;
     std::cout << (int)c << endl;
+    std::cout << (char)ascii << endl;
     return 0;
 }

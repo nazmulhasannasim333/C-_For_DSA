@@ -3,3 +3,4 @@ Character: A
 Double: 34.56
 ASCII value of 'A': 65
 65
+A
