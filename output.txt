@@ -1,4 +1,1 @@
-Hello World! 
-100
-A 3.1414
-My Favorite number is 100
+You entered: 222
