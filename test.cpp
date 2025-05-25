@@ -1,1 +1,7 @@
-// This is testing file for the C++20 project.
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!";
+    return 0;
+}
