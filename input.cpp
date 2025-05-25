@@ -11,7 +11,7 @@ int main()
     cout << "Number: " << x << endl
          << "Character: " << c << endl
          << "Double: " << d << endl;
-    std:: cout << "ASCII value of '" << c << "': " << ascii << endl;
-
+    std::cout << "ASCII value of '" << c << "': " << ascii << endl;
+    std::cout << (int)c << endl;
     return 0;
 }
